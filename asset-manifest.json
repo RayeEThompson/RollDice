@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RollDice/static/css/main.69fd8b09.chunk.css",
+    "main.js": "/RollDice/static/js/main.66b10fd2.chunk.js",
+    "main.js.map": "/RollDice/static/js/main.66b10fd2.chunk.js.map",
+    "runtime-main.js": "/RollDice/static/js/runtime-main.6ef7bdd7.js",
+    "runtime-main.js.map": "/RollDice/static/js/runtime-main.6ef7bdd7.js.map",
+    "static/js/2.3a1a4e2b.chunk.js": "/RollDice/static/js/2.3a1a4e2b.chunk.js",
+    "static/js/2.3a1a4e2b.chunk.js.map": "/RollDice/static/js/2.3a1a4e2b.chunk.js.map",
+    "index.html": "/RollDice/index.html",
+    "precache-manifest.3c3644f308b92e61abd960c9d3336bde.js": "/RollDice/precache-manifest.3c3644f308b92e61abd960c9d3336bde.js",
+    "service-worker.js": "/RollDice/service-worker.js",
+    "static/css/main.69fd8b09.chunk.css.map": "/RollDice/static/css/main.69fd8b09.chunk.css.map",
+    "static/js/2.3a1a4e2b.chunk.js.LICENSE.txt": "/RollDice/static/js/2.3a1a4e2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef7bdd7.js",
+    "static/js/2.3a1a4e2b.chunk.js",
+    "static/css/main.69fd8b09.chunk.css",
+    "static/js/main.66b10fd2.chunk.js"
+  ]
+}
